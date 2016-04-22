@@ -1,9 +1,9 @@
-import {Component}         from 'angular2/core';
+import {Component}     from 'angular2/core';
 import {FormComponent} from '../formComponent/form.component'
 
 @Component({
-  selector: 'my-app',
-  template: '<hero-form></hero-form>',
+  selector: 'index',
+  template: '<form></form>',
   directives: [FormComponent]
 })
 

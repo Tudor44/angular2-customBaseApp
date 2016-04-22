@@ -26,8 +26,8 @@ System.register(['angular2/core', '../formComponent/form.component'], function(e
                 }
                 IndexComponent = __decorate([
                     core_1.Component({
-                        selector: 'my-app',
-                        template: '<hero-form></hero-form>',
+                        selector: 'index',
+                        template: '<form></form>',
                         directives: [form_component_1.FormComponent]
                     }), 
                     __metadata('design:paramtypes', [])

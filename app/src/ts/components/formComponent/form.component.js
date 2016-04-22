@@ -26,7 +26,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 };
                 FormComponent = __decorate([
                     core_1.Component({
-                        selector: 'hero-form',
+                        selector: 'form',
                         templateUrl: '/app/src/ts/components/formComponent/form.component.html'
                     }), 
                     __metadata('design:paramtypes', [])
