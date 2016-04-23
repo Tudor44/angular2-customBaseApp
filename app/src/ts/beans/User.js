@@ -6,11 +6,9 @@ System.register([], function(exports_1, context_1) {
         setters:[],
         execute: function() {
             User = (function () {
-                function User(name, surname, date, taxcode) {
+                function User(name, surname) {
                     this.name = name;
                     this.surname = surname;
-                    this.date = date;
-                    this.taxcode = taxcode;
                 }
                 return User;
             }());
