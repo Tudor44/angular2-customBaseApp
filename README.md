@@ -1,3 +1,3 @@
 # angular2-customBaseApp
-A my custum structure created for learn angular2
+A my custom structure created for learn angular2
 
